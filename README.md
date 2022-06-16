@@ -10,4 +10,4 @@ Integrantes:
 - Nicole Hucke, Center for Ecohydraulics Research at University of Idaho, Boise, USA
 - Lucrecia Alvarez, Energy and Environment Institute, University of Hull, UK 
 
-![Diagrama]([https://github.com/gimoran/CocoGreenSeas/blob/4e6871fb42e5cdf0d653398f036417c98a4cfe75/Proposal/diagrama%20con%20mapa.jpg])
+![Diagrama](https://github.com/gimoran/CocoGreenSeas/blob/4e6871fb42e5cdf0d653398f036417c98a4cfe75/Proposal/diagrama%20con%20mapa.jpg)
